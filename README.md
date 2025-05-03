@@ -12,4 +12,4 @@ The `my_first_agent` function initializes an agent with the instruction to respo
 
 Here is an example of what the decorated message output looks like in the terminal:
 
-![Terminal Output](image/screenshot.png)
+![Terminal Output](image/Screenshot.png)
